@@ -3,6 +3,7 @@ Scalable and flexible eventSystem with easy interface
 
 # Build
 SFML used in example to handle user input.
+C++20 required.
 Visual Studio:
 1. use vcpkg: vcpkg install sfml
 2. create an empty project
